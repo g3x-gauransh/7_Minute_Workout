@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/7MinuteWorkout.iml" filepath="$PROJECT_DIR$/.idea/modules/7MinuteWorkout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/7MinuteWorkout.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/7MinuteWorkout.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/7MinuteWorkout.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/7MinuteWorkout.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/7MinuteWorkout.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/7MinuteWorkout.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/7MinuteWorkout.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/7MinuteWorkout.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
